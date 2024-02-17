@@ -1,2 +1,2 @@
-# knowledge_dump
-A Repo to practice things I know
+# Prince Grivialde Portfolio
+Building my Portfolio from scratch
