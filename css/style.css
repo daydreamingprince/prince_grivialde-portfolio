@@ -8,4 +8,6 @@ body {
     margin: 20px;
     background-color: #121212;
     color: #ffffff;
+
+    /* Fix anchor link contrasts to suit dark-mode better */
 }
