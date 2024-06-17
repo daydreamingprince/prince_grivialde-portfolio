@@ -8,9 +8,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -80px; /* This adjusts the logo up a bit */
+    margin-top: -120px; /* This adjusts the logo up a bit */
 }
 .header-logo {
-    width: 250px;
-    height: 250px;
+    width: 337px;
+    height: 337px;
 }
