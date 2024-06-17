@@ -8,6 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: -80px; /* This adjusts the logo up a bit */
 }
 .header-logo {
     width: 250px;
