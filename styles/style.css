@@ -27,6 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; /* Optional for vertical centering */
+    margin-top: -50px;
 }
 
 .main-text {
