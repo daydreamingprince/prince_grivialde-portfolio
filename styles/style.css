@@ -25,3 +25,11 @@ body {
     font-family: "Radley", serif;
     font-size: 86.2px;
 }
+
+/* Styling for the main text */
+.italic {
+    font-style: italic;
+}
+.darkbrown {
+    color: #9B4819;
+}
