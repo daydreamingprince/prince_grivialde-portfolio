@@ -20,3 +20,7 @@ body {
     justify-content: center;
     align-items: center; /* Optional for vertical centering */
 }
+
+.main-text {
+    font-size: 86.2px;
+}
