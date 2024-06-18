@@ -15,7 +15,9 @@ body {
     height: 337px;
 }
 
-.main-text-container {
+.main-text-container,
+.sub-text-container
+ {
     display: flex;
     justify-content: center;
     align-items: center; /* Optional for vertical centering */
