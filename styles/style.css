@@ -1,5 +1,7 @@
 /* style.css for index.html */
 
+/*Fix mobile view*/
+
 @font-face {
     font-family: Maragsa;
     src: url(../fonts/maragsa/Maragsa-Display.woff) format("woff"),
