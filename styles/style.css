@@ -35,3 +35,7 @@ body {
 .darkbrown {
     color: #9B4819;
 }
+
+.sub-text-container {
+    margin-top: -120px;
+}
