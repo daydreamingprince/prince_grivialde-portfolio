@@ -1,5 +1,11 @@
 /* style.css for index.html */
 
+@font-face {
+    font-family: Maragsa;
+    src: url(../fonts/maragsa/Maragsa-Display.woff) format("woff"),
+         url(../fonts/maragsa/Maragsa-Display.woff2) format("woff2");
+}
+
 body {
     background-color: #F4F1E8;
 }
@@ -37,5 +43,9 @@ body {
 }
 
 .sub-text-container {
-    margin-top: -120px;
+    margin-top: -130px;
+}
+.sub-text-container .sub-text {
+    font-family: "Maragsa";
+    font-size: 24px;
 }
