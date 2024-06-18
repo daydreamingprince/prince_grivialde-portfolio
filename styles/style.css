@@ -14,3 +14,9 @@ body {
     width: 337px;
     height: 337px;
 }
+
+.main-text-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Optional for vertical centering */
+}
